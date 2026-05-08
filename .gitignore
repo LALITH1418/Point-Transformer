@@ -1,0 +1,5 @@
+# Ignore all data files
+kitti_3d_object_detection_dataset/
+*.bin
+
+Pointnet_Pointnet2_pytorch/

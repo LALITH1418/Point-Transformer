@@ -1,0 +1,14 @@
+[project]
+name = "point-transformer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "graphviz>=0.21",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.4",
+    "torch>=2.11.0",
+    "torchinfo>=1.8.0",
+    "torchviz>=0.0.3",
+]
